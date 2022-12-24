@@ -1,0 +1,10 @@
+{
+    "name": "Lighthouse-automated-reporting",
+    "version": "1.0.0",
+    "dependencies": {
+
+    },
+    "scripts": {
+        "test": "node index.js"        
+    }
+}
