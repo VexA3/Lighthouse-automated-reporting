@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1282.0",
+    "dotenv": "^16.0.3",
+    "lighthouse": "^9.6.8",
+    "puppeteer": "^19.4.1",
+    "yargs": "^17.6.2"
+  }
+}
